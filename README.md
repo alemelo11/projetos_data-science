@@ -6,7 +6,7 @@
   <img src="https://github.com/alemelo11/Projetos_Data-Science/blob/main/banner%20(1).png">
   </p>
 
-# Análise de Dados do Airbnb - Munich
+# Análise de Dados do Airbnb - **Munich**
 <sub>*Data Science student</sub>
 
 Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíticas e minha atenção aos detalhes. Nos próximos anos, estarei compartilhando alguns projetos e concluindo meu curso.
