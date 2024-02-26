@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="C:\Users\Odonto\Desktop\banner.png" >
+  <img src="https://github.com/carlosfab/template_portfolio/raw/master/banner.png" >
   </p>
 
 # Alexandre Melo
