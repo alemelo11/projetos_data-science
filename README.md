@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/carlosfab/template_portfolio/raw/master/banner.png" >
+  <img src="" >
   </p>
 
 # Alexandre Melo
