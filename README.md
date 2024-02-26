@@ -3,8 +3,7 @@
 
 
 <p align="center">
-  <img src="![banner (1)](https://github.com/alemelo11/Projetos_Data-Science/assets/137203060/ffa678fd-180c-444e-b76d-aff43de6d426)
-" >
+  <img src="file:///C:/Users/Odonto/Downloads/banner%20(1).png" >
   </p>
 
 # Alexandre Melo
