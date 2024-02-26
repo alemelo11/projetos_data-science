@@ -3,11 +3,11 @@
 
 
 <p align="center">
-  <img src="bannerDS.png" >
+  <img src="[bannerDS.png](https://github.com/carlosfab/template_portfolio)" >
 </p>
 
 # Alexandre Melo
-<sub>*Computer Science student* at UCB</sub>
+<sub>*Data Science student</sub>
 
 Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíticas e minha atenção aos detalhes. Nos próximos anos, estarei compartilhando alguns projetos e concluindo meu curso.
 
