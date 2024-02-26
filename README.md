@@ -19,7 +19,7 @@ Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíti
 
 ## Projects:
 
-* **Análise dos Dados do Airbnb - Munich:** https://colab.research.google.com/drive/1RsYRmOi-giXypnc2UXcpYTB261m3htZ4#scrollTo=vZ7qNCluut2J
+* **Análise dos Dados do Airbnb - Munich:** https://bit.ly/49QetFY
 
 
 ---
