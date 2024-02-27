@@ -17,7 +17,7 @@ Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíti
 * [LinkedIn](https://www.linkedin.com/in/alemelo11)
 * [Medium](https://medium.com/)
 
-## Projects:
+## Projetos:
 
 * **Análise dos Dados do Airbnb - Munich:** https://bit.ly/49QetFY
 
