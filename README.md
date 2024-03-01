@@ -15,7 +15,7 @@ Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíti
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/alemelo11//recent-activity/all/)
-* [Medium](https://medium.com/@cdalexandre)
+* [Medium](https://medium.com/me/stories/public)
 
 ## Projetos:
 
