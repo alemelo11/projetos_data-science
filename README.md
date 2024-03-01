@@ -14,7 +14,7 @@ Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíti
 **Background in:** Python.
 
 **Links:**
-* [LinkedIn]([https://www.linkedin.com/in/alemelo11](https://www.linkedin.com/in/alemelo11/recent-activity/all/)
+* [LinkedIn]([https://www.linkedin.com/in/alemelo11)
 * [Medium](https://medium.com/@cdalexandre)
 
 ## Projetos:
