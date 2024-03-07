@@ -4,34 +4,10 @@
 <p align="center">
   <img src="https://github.com/alemelo11/Projetos_Data-Science/blob/main/banner%20(1).png">
 
-
-   <p align="center">
-    <a href="https://www.linkedin.com/in/alemelo11/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="10">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://medium.com/me/stories/public">
-    <img src="https://logos-download.com/wp-content/uploads/2016/03/Medium_logo_icon.png" alt="Medium" height="10">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/alemelo11">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="10">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="Instagram" height="30">
-    </a>
-  </p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/alemelo11/">LinkedIn</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/me/stories/public">Medium</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/alemelo11">GitHub</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/">Instagram</a>
+  <img src="https://github.com/alemelo11/Projetos_Data-Science/blob/main/banner%20(1).png">
 </p>
+   
 
 
 <p align="center">
