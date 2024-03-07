@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://github.com/alemelo11/Projetos_Data-Science/blob/main/banner%20(1).png">
 
-<p align="center">
-  <sub>*Data Science student</sub>
-</p>
-
 # Alexandre Melo
 <sub>*Data Science student</sub>
 
