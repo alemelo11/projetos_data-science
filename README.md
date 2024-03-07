@@ -3,9 +3,9 @@
 
 <p align="center">
   <img src="https://github.com/alemelo11/Projetos_Data-Science/blob/main/banner%20(1).png">
-</p>
 
-  <p align="center">
+
+   <p align="center">
     <a href="https://www.linkedin.com/in/alemelo11/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="10">
     </a>
