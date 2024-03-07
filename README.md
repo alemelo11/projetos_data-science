@@ -6,6 +6,39 @@
   <img src="https://github.com/alemelo11/Projetos_Data-Science/blob/main/banner%20(1).png">
 </p>
 
+<p align="center">
+  <sub>*Data Science student</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alemelo11/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/me/stories/public">
+    <img src="https://logodix.com/logo/1855762.png" alt="Medium" height="30">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alemelo11">
+    <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub" height="30">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="Instagram" height="30">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alemelo11/">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/me/stories/public">Medium</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alemelo11">GitHub</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/">Instagram</a>
+</p>
+
+
 
 
 
@@ -23,15 +56,6 @@ Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíti
 ## Projetos:
 
 * **Análise dos Dados do Airbnb - Munich:** https://bit.ly/49QetFY
-
-
----
-
-
-
-
-
----
 
 
 
