@@ -6,20 +6,16 @@
 </p>
 
 <p align="center">
-  <sub>*Data Science student</sub>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/alemelo11/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="10">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/me/stories/public">
-    <img src="https://logos-download.com/wp-content/uploads/2016/03/Medium_logo_icon.png" alt="Medium" height="30">
+    <img src="https://logos-download.com/wp-content/uploads/2016/03/Medium_logo_icon.png" alt="Medium" height="10">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alemelo11">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="10">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/">
@@ -36,6 +32,12 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/">Instagram</a>
 </p>
+
+
+<p align="center">
+  <sub>*Data Science student</sub>
+</p>
+
 
 
 
