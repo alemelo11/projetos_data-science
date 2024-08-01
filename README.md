@@ -18,7 +18,7 @@ Como estudante em Ciência de Dados, busco aprimorar minhas habilidades analíti
 ## Projetos:
 
 * **Análise dos Dados do Airbnb - Munich:** https://bit.ly/49QetFY
-
+* **Análise dos Dados Bike Sharing - Brasília/DF - 2018:** 
 
 
 
