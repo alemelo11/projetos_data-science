@@ -6,8 +6,7 @@
   <img src="https://github.com/alemelo11/alemelo11/blob/main/black_banner.png" width="90%">
 </p>
 
-
-# Cirurgião-Dentista | Estudante Data Science
+### Cirurgião-Dentista🦷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Data Science Student🎓&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;AI👩‍🚀
 <sub>Data Science student</sub>
 
 Cirurgião-Dentista.
